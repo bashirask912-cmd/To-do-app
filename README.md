@@ -97,10 +97,7 @@ Open a Pull Request
 This project is licensed under the MIT License.
 
 👨‍💻 Author
-
-Your Name
-
-GitHub: https://github.com/bashirask912-cmd
+live demo: https://legendary-squirrel-db2ace.netlify.app/
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
